@@ -1,1 +1,1 @@
-"# MysteryMansion" 
+# MysteryMansion
